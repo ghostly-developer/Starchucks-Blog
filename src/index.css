@@ -5,6 +5,17 @@
   margin: 0;
   font-family: "Quicksand";
   color: #333;
+  animation: loadIn 0.8s ease-in-out;
+}
+
+@keyframes loadIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
 }
 .navbar {
   padding: 20px;
@@ -27,6 +38,8 @@
 }
 .navbar a:hover {
   color: #007a33;
+  background-color: whitesmoke;
+  border-radius: 16px;
 }
 .content {
   max-width: 600px;
@@ -35,7 +48,38 @@
 }
 
 .button {
+  border-style: none;
   color: white;
-  background-color: #00c050;
+  background-color: #007a33;
   border-radius: 16px;
+}
+
+.button:hover {
+  background-color: #00c050;
+  cursor: pointer;
+}
+
+.button-danger {
+  border-style: none;
+  color: white;
+  background-color: #d10303;
+  border-radius: 16px;
+}
+
+.button-danger:hover {
+  background-color: #f03838;
+  cursor: pointer;
+}
+.blog-preview {
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 4px solid #fafafa;
+}
+.blog-preview:hover {
+  box-shadow: 1px 3px 6px rgba(0, 0, 0, 0.1);
+}
+.blog-preview h2 {
+  font-size: 20px;
+  color: #007a33;
+  margin-bottom: 8px;
 }
