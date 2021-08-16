@@ -74,9 +74,10 @@
   padding: 10px 16px;
   margin: 20px 0;
   border-bottom: 4px solid #fafafa;
+  border-radius: 16px;
 }
 .blog-preview:hover {
-  box-shadow: 1px 3px 6px rgba(0, 0, 0, 0.1);
+  box-shadow: 1px 3px 8px rgba(0, 0, 0, 0.3);
 }
 .blog-preview h2 {
   font-size: 20px;

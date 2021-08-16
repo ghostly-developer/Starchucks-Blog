@@ -1,0 +1,16 @@
+{
+    "blogs": [
+      {
+        "title": "Starchucks Weekly",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque recusandae rerum beatae sequi delectus, vitae a aspernatur sit quam dolorum dolor inventore saepe ipsam laboriosam accusamus, debitis odit quasi soluta nemo hic veniam est repellendus! Similique odio a minima repellat. Rem modi, fugit sed sunt, enim veritatis quo tempora commodi voluptate perferendis est quas soluta repellendus similique ab sint nam perspiciatis architecto debitis temporibus laudantium molestiae saepe, nostrum vitae? Atque quidem vero architecto, mollitia aliquid amet illo ipsum est reprehenderit possimus voluptates animi ex, cupiditate non libero, ullam quas corporis molestias veritatis! Aspernatur aliquam hic incidunt dolorum, odio dolore accusantium labore. Adipisci nesciunt provident ipsam natus dolor, officia quos deleniti ex eius explicabo veniam commodi, placeat soluta aliquam laudantium. Veniam atque fugiat reiciendis esse distinctio commodi recusandae. Optio exercitationem iusto molestias. Asperiores dolorum, voluptas ad est harum repellendus quis esse repudiandae ea ratione. Ea officia illo ducimus expedita similique mollitia.",
+        "author": "Mario",
+        "id": 1
+      },
+      {
+        "title": "Introducing: Brrrappucino",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque recusandae rerum beatae sequi delectus, vitae a aspernatur sit quam dolorum dolor inventore saepe ipsam laboriosam accusamus, debitis odit quasi soluta nemo hic veniam est repellendus! Similique odio a minima repellat. Rem modi, fugit sed sunt, enim veritatis quo tempora commodi voluptate perferendis est quas soluta repellendus similique ab sint nam perspiciatis architecto debitis temporibus laudantium molestiae saepe, nostrum vitae? Atque quidem vero architecto, mollitia aliquid amet illo ipsum est reprehenderit possimus voluptates animi ex, cupiditate non libero, ullam quas corporis molestias veritatis! Aspernatur aliquam hic incidunt dolorum, odio dolore accusantium labore. Adipisci nesciunt provident ipsam natus dolor, officia quos deleniti ex eius explicabo veniam commodi, placeat soluta aliquam laudantium. Veniam atque fugiat reiciendis esse distinctio commodi recusandae. Optio exercitationem iusto molestias. Asperiores dolorum, voluptas ad est harum repellendus quis esse repudiandae ea ratione. Ea officia illo ducimus expedita similique mollitia.",
+        "author": "Luigi",
+        "id": 2
+      }
+    ]
+  }
