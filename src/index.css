@@ -140,3 +140,11 @@ select:focus {
   border: 1px solid #007a33;
   box-shadow: 0 0 10px #719ece;
 }
+
+.NotFound {
+  text-align: center;
+}
+
+.NotFound h1 {
+  font-size: 40px;
+}
