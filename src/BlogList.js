@@ -6,7 +6,7 @@ function BlogList({blogs, title, handleDelete}) {
             <h2>{ title }</h2>
             {blogs.map((blog) => (
                 <div className="blog-preview" key={blog.id}>
-                    <Link style={{textDecoration: 'none'}} to={`/blogs/${ blog.id }`}>
+                    <Link style={{textDecoration: 'none'}} to={`/Starchucks-Blog/blogs/${ blog.id }`}>
                         <h2>{ blog.title }</h2>
                         <h4>Written By: { blog.author }</h4>
                     </Link>

@@ -2,7 +2,7 @@
   "name": "starchucks-blog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ghostly-developer.github.io/",
+  "homepage": "https://ghostly-developer.github.io/Starchucks-Blog",
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
@@ -13,7 +13,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2",
-    "homepage": "https://ghostly-developer.github.io//"
+    "homepage": "https://ghostly-developer.github.io/Starchucks-Blog"
   },
   "scripts": {
     "start": "react-scripts start",

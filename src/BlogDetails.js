@@ -13,7 +13,7 @@ function BlogDetails() {
             method: 'DELETE'
         }).then(() => {
             console.log("Blog Deleted")
-            history.push('/');
+            history.push('/Starchucks-Blog');
         })
     }
     return (  
