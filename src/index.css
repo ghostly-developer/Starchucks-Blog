@@ -64,6 +64,7 @@
   color: white;
   background-color: #d10303;
   border-radius: 16px;
+  padding: 8px;
 }
 
 .button-danger:hover {
