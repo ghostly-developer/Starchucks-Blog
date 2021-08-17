@@ -3,7 +3,7 @@ import useFetch from './useFetch';
 
 function Home() {
     const { data: blogs, isLoading, error } = useFetch('http://localhost:8000/blogs');
-
+    localStorage.setItem('blogs', blogs);
     return (  
         <div className="home">
             { error && <h1>{ error }</h1>} 

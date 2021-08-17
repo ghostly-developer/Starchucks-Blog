@@ -9,7 +9,7 @@ function NotFound() {
             <br />
             <h4>Current Page Cannot Be Found</h4>
             <br />
-            <Link to="/" style={{textDecoration: 'none', color: '#007a33'}}>Back To Home</Link>
+            <Link to="/Starchucks-Blog" style={{textDecoration: 'none', color: '#007a33'}}>Back To Home</Link>
         </div>
     );
 }

@@ -5,6 +5,7 @@ import { useHistory } from 'react-router-dom';
 function BlogDetails() {
     const { id } = useParams();
     const { data: blog, isLoading, error} = useFetch('http://localhost:8000/blogs/' + id)
+    localStorage.setItem('blog', blog);
     const history = useHistory();
 
     //Simple as pie.
